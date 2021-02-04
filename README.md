@@ -1,6 +1,8 @@
-# Gedicht_test
+Farbpalette
 
-# h1
-## h2
 
-Das ist ein Test
+Rot
+Grün
+Blau
+Sind alles tolle Farben.
+
