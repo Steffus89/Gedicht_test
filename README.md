@@ -1,8 +1,9 @@
 Farbpalette
 
-
 Rot
 Grün
 Blau
-Sind alles tolle Farben.
+Hellblau
+Dunkelblau
 
+Sind alles tolle Farben.
